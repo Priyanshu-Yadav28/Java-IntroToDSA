@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assingments/Assingments.iml" filepath="$PROJECT_DIR$/Assingments/Assingments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch2DArray/BinarySearch2DArray.iml" filepath="$PROJECT_DIR$/BinarySearch2DArray/BinarySearch2DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA 2.iml" filepath="$PROJECT_DIR$/DSA 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practise/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Practise/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/LinerSearch/LinerSearch.iml" filepath="$PROJECT_DIR$/Array/LinerSearch/LinerSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathsForDsa/MathsForDsa.iml" filepath="$PROJECT_DIR$/MathsForDsa/MathsForDsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NqueensAndNknights/NqueensAndNknights.iml" filepath="$PROJECT_DIR$/NqueensAndNknights/NqueensAndNknights.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs/OOPs.iml" filepath="$PROJECT_DIR$/OOPs/OOPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs/Oop2/OOp6/OOp6.iml" filepath="$PROJECT_DIR$/OOPs/Oop2/OOp6/OOp6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs/Oop1/Oop1.iml" filepath="$PROJECT_DIR$/OOPs/Oop1/Oop1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs/Oop2/Oop2.iml" filepath="$PROJECT_DIR$/OOPs/Oop2/Oop2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs/Oop3/Oop3.iml" filepath="$PROJECT_DIR$/OOPs/Oop3/Oop3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs/Oop4/Oop4.iml" filepath="$PROJECT_DIR$/OOPs/Oop4/Oop4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs/Oop5/Oop5.iml" filepath="$PROJECT_DIR$/OOPs/Oop5/Oop5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs/Oop6/Oop6.iml" filepath="$PROJECT_DIR$/OOPs/Oop6/Oop6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs/Oop7/Oop7.iml" filepath="$PROJECT_DIR$/OOPs/Oop7/Oop7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OopRevision/OopRevision.iml" filepath="$PROJECT_DIR$/OopRevision/OopRevision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OopRevision/Oops3/Oops3.iml" filepath="$PROJECT_DIR$/OopRevision/Oops3/Oops3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practise/Practise.iml" filepath="$PROJECT_DIR$/Practise/Practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assingments/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Assingments/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Array  Quesitions/Recursion Array  Quesitions.iml" filepath="$PROJECT_DIR$/Recursion Array  Quesitions/Recursion Array  Quesitions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Intro/Recursion Intro.iml" filepath="$PROJECT_DIR$/Recursion Intro/Recursion Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Level 1/Recursion Level 1.iml" filepath="$PROJECT_DIR$/Recursion Level 1/Recursion Level 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Maze Problems/Recursion Maze Problems.iml" filepath="$PROJECT_DIR$/Recursion Maze Problems/Recursion Maze Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Permutation/Recursion Permutation.iml" filepath="$PROJECT_DIR$/Recursion Permutation/Recursion Permutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Sorting/Recursion Sorting.iml" filepath="$PROJECT_DIR$/Recursion Sorting/Recursion Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Subset Sequencse String/Recursion Subset Sequencse String.iml" filepath="$PROJECT_DIR$/Recursion Subset Sequencse String/Recursion Subset Sequencse String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rough/Rough.iml" filepath="$PROJECT_DIR$/Rough/Rough.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Star Patterns/Star Patterns.iml" filepath="$PROJECT_DIR$/Star Patterns/Star Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings &amp; String Builders/Strings &amp; String Builders.iml" filepath="$PROJECT_DIR$/Strings &amp; String Builders/Strings &amp; String Builders.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+Properties of Object oriented Programming
+
+1 - Inheritance
+2 - Polymorphism
+3 - Encapsulation
+4 - Abstraction
+
+INHERITANCE : One class inherits the properties of other class the class which inherits the
+properties is called the derived / child / subclass and the class from which it is derived
+is called Derived / Parent / super class .
+
+
+Types of Inheritance :
+1 - Single Inheritance
+2 - Multilevel Inheritance
+3 - Multiple Inheritance - Creating a single class with multiple superclasses / Parent class
+4 - Hierarchical Inheritance - Many child classes are derived with one parent class
+5 - Hybrid Inheritance
